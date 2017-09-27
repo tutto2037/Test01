@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\Test01\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\User\Documents\GitHub\Test01\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\User\Documents\GitHub\Test01\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\User\Documents\GitHub\Test01\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\User\Documents\GitHub\Test01\Prueba\Prueba\obj\Debug\Prueba.pdb
